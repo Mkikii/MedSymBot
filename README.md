@@ -104,4 +104,4 @@ For support, please email timmaina64@gmail.com or raise an issue in the reposito
 
 ---
 
-Made with ❤️ for improving healthcare accessibility in Kenya
+Made for improving healthcare accessibility in Kenya
